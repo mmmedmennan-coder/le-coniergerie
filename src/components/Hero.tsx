@@ -26,7 +26,7 @@ export const Hero = () => {
       <motion.div
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1549944850-84e00be4203b?auto=format&fit=crop&q=90&w=1920")',
+          backgroundImage: 'url("/PIC-HERO-HOME-PAG.png")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           x: translateX,
